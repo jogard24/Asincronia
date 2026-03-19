@@ -6,14 +6,14 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 | Nombre | Rol | Usuario de GitHub |
 | :--- | :--- | :--- |
 | [Jose Gabriel Roa] | Líder (Arquitecto) | `@jogard24` |
-| [Nombre del Aprendiz 2] | Desarrollador | `@usuario2` |
+| [Jhonatan David Leherici Carrascal] | Desarrollador | `@Oatan150522` |
 | [Nombre del Aprendiz 3] | Desarrollador | `@usuario3` |
 | [Nombre del Aprendiz 3] | Desarrollador | `@usuario3` |
 
 ## 2. Canales de Comunicación
 Para mantener el orden y separar lo profesional de lo personal, usaremos los siguientes canales:
-* **Comunicación Oficial y Archivos:** [whatsapp]
-* **Urgencias o bloqueos rápidos:** [discord]
+* **Comunicación Oficial y Archivos:** [Correo Electronico]
+* **Urgencias o bloqueos rápidos:** [Discord / Whatsapp]
 * **Gestión de Tareas y Código:** Estrictamente a través de los *Issues* y *Pull Requests* de GitHub. (No se revisa código por WhatsApp).
 
 ## 3. Horarios y Sincronización
