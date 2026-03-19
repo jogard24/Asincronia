@@ -5,18 +5,19 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 ## 1. Miembros del Equipo y Roles
 | Nombre | Rol | Usuario de GitHub |
 | :--- | :--- | :--- |
-| [Nombre del Aprendiz 1] | Líder (Arquitecto) | `@usuario1` |
+| [Jose Gabriel Roa] | Líder (Arquitecto) | `@jogard24` |
 | [Nombre del Aprendiz 2] | Desarrollador | `@usuario2` |
+| [Nombre del Aprendiz 3] | Desarrollador | `@usuario3` |
 | [Nombre del Aprendiz 3] | Desarrollador | `@usuario3` |
 
 ## 2. Canales de Comunicación
 Para mantener el orden y separar lo profesional de lo personal, usaremos los siguientes canales:
-* **Comunicación Oficial y Archivos:** [Ej: correo corporativo / Microsoft Teams]
-* **Urgencias o bloqueos rápidos:** [Ej: Grupo de WhatsApp]
+* **Comunicación Oficial y Archivos:** [whatsapp]
+* **Urgencias o bloqueos rápidos:** [discord]
 * **Gestión de Tareas y Código:** Estrictamente a través de los *Issues* y *Pull Requests* de GitHub. (No se revisa código por WhatsApp).
 
 ## 3. Horarios y Sincronización
-* **Reuniones de Sincronización (Daily Stand-up):** Nos reuniremos los días [Días de la semana] a las [Hora] de forma [Presencial/Virtual].
+* **Reuniones de Sincronización (Daily Stand-up):** Nos reuniremos los días [Días de la semana] a las [Hora] de forma [Virtual].
 * **Tiempo máximo de respuesta:** Nos comprometemos a responder mensajes del equipo en un máximo de [Ej: 4 horas] durante el horario hábil.
 
 ## 4. Reglas de Desarrollo
